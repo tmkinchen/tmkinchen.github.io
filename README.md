@@ -2,5 +2,5 @@
 Presented by Taylor Kinchen
 
 ## Current Weather
-A map showing real-time weather radar and alerts from the National Weather Service.
+A map showing real-time weather radar and alerts from the National Weather Service.  
 <https://tmkinchen.github.io/weather>
